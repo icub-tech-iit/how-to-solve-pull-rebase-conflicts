@@ -1,1 +1,1 @@
-This is the `master` copy of the file.
+This is the `upstream` copy of the file.
